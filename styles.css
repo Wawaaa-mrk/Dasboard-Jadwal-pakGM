@@ -2,7 +2,7 @@ body {
   font-weight: Arial, sans-serif;
   margin: 1;
   padding: 1;
-  background: url('pic/bg.jpg') no-repeat center center fixed;
+  background: url('pic/BG.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #e19b6f;
 }
